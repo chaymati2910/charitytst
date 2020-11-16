@@ -1,0 +1,19 @@
+.container-fluid{
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ background-color: #FBF8F6;
+ border-radius: 18px;
+ width: 942px;
+ height: 128px;
+ left: 249px;
+ top: 1607px;
+ 
+}
+
+#imag{
+border: 6px solid black;
+padding-bottom: 100px;
+padding-top: 100px;
+margin-top: 60px;
+}
